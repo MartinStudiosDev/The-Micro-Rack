@@ -43,6 +43,16 @@ At a minimum, you'll need:
 
 The 3D printed spacers used by the Micro Rack are available in my **[10-Inch Homelab Rack project](https://github.com/MartinStudiosDev/Parametric-10In-Homelab-Rack)** and can be printed using the files provided there.
 
+### 🖨️ Custom Trays
+
+Looking for different mounting options? I've also designed a variety of **3D printable trays** specifically for the Micro Rack.
+
+Check out my **[MakerWorld profile](https://makerworld.com/en/@Rmartin3D/upload)** for available trays and other printable accessories.
+
+The tray models include **STEP files**, making them easy to modify in free CAD software such as **Fusion 360** or **FreeCAD**.
+
+More tray designs will be added over time!
+
 > **💡 Looking for a standard 10-inch rack?**
 >
 > The linked project above is a great alternative for a larger, standard 10-inch rack.
@@ -61,7 +71,9 @@ The 3D printed spacers used by the Micro Rack are available in my **[10-Inch Hom
 
 If you build your own Micro Rack, I'd love to see it!
 
-Consider sharing your build, starring this repository, or checking out my other projects.
+Consider sharing photos of your build, starring this repository, or checking out my other projects.
+
+Stay up to date with my projects via **TikTok** found below.
 
 ---
 
