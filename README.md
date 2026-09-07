@@ -1,5 +1,7 @@
 # The Micro Rack - A Premium Desktop Networking Rack
 
+![](Hero.jpg)
+
 Build a compact **Micro Homelab Rack** designed for small-form-factor servers, networking equipment, Raspberry Pi projects, and other compact hardware.
 
 The rack is built around **2020 aluminum extrusion** and provides a simple, modular way to organize your homelab without needing a full-size server rack, while still relying on **standard 1U spacing**.
